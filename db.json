@@ -1,18 +1,16 @@
-
-
 [{
 
 "policyId": "506-3299407",
 
 "externalId": "8000058750",
 
-"insuredId": “1111111111111111111”,
+"insuredId": "1111111111111111111",
 
 "insuredFirstName": "firstname”,
 
-"insuredLastName": “lastname", 
+"insuredLastName": "lastname", 
 
-“type": “new business”, 
+"type": "new business", 
 
 "channel": "bank",
 
