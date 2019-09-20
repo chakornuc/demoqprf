@@ -1,59 +1,14 @@
 {
-
-"policyId": "506-3299407",
-
-"externalId": "8000058750",
-
-"insuredId": "1111111111111111111",
-
-"insuredFirstName": "firstname”,
-
-"insuredLastName": "lastname", 
-
-"type": "new business", 
-
-"channel": "bank",
-
-"source": "AdvisorZone", 
-
-"status": "success", 
-
-"transactions": [{
-
-"id": "chrg_test_5bhgiwjhvjrinbgx91b",
-
-"amount": 12953,
-
-"currency": "THB”,
-
-     "type": "credit card" 
-
-"datetime": "2019-02-12 12:05:42",
-
-"receiptDatetime": "2019-02-12 12:05:42”,
-
-"provider": "omise",
-
-"status": "success”, 
-
-"bank": {
-
-"accountNumber": "L-CC"
-
-},
-
-"metadata": {
-
-"approvalCode": "050026" 
-
-}
-
-}],
-
-"paymentId": "CFY4IJS1B0CJD",
-
-"created": "2019-02-12T05:06:21.433Z",
-
-"updated": "2019-02-12T05:06:21.433Z"
-
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
